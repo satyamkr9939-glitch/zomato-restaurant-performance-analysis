@@ -1,4 +1,4 @@
-# 🚀 Zamato Restaurant Performance Analysis & Prediction
+# 🚀 Zomato Restaurant Performance Analysis & Prediction
 
 ## 📌 Overview
 This project analyzes Zomato restaurant data to identify **underperforming restaurants** and uncover key business insights using data analysis and machine learning.
@@ -93,6 +93,10 @@ Rating_Diff = Dining_Rating - Delivery_Rating
 
 ## 🛠️ Tech Stack
 Python | Pandas | NumPy | Matplotlib | Scikit-learn | Google Colab
+
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/satyam-8b105032b
+- GitHub: https://github.com/satyamkr9939-glitch
 
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/satyam-8b105032b
